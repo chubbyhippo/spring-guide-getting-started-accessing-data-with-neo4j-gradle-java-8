@@ -1,5 +1,4 @@
 package com.example.accessingdataneo4j;
-package com.example.accessingdataneo4j;
 
 import java.util.Arrays;
 import java.util.List;
